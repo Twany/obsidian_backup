@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "经验",
-      "path": "经验.md"
+      "basename": "Journal",
+      "path": "每日输出/Journal.md"
     },
     {
-      "basename": "index",
-      "path": "每日输出/index.md"
+      "basename": "Podcast",
+      "path": "Podcast.md"
+    },
+    {
+      "basename": "Drawing 2023-06-09 23.35.19.excalidraw",
+      "path": "Excalidraw/Drawing 2023-06-09 23.35.19.excalidraw.md"
+    },
+    {
+      "basename": "经验",
+      "path": "经验.md"
     },
     {
       "basename": "Lottery",
@@ -19,10 +27,6 @@
     {
       "basename": "集合源码",
       "path": "Java/源码分析/集合源码.md"
-    },
-    {
-      "basename": "Podcast",
-      "path": "Podcast.md"
     },
     {
       "basename": "awesome-starter",
