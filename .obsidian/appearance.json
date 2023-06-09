@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "index",
+    "custom-admonitions.093373"
+  ],
+  "baseFontSize": 16,
+  "baseFontSizeAction": false,
+  "cssTheme": "Things"
+}
