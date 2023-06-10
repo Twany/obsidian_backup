@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "322cd0b621c8b21a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "每日输出/Journal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,10 +186,16 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "05b228a494271936",
+  "active": "322cd0b621c8b21a",
   "lastOpenFiles": [
-    "每日输出/2023-06-09.md",
+    "待处理.md",
+    "assets/待处理/image-20230610123447720.png",
+    "assets/待处理/image-20230610123433168.png",
+    "assets/待处理",
     "每日输出/Journal.md",
+    "未命名",
+    "待处理",
+    "每日输出/2023-06-09.md",
     "每日输出/每日Done.md",
     "每日输出/assets/每日Done/2023-06-09.md",
     "Podcast.md",
@@ -184,7 +203,6 @@
     "Excalidraw",
     "经验.md",
     "2023-06-09.md",
-    "未命名",
     "每日输出/assets/每日Done/slides-export.pdf",
     "每日输出/assets/每日Done",
     "每日输出/assets",
@@ -204,8 +222,6 @@
     "面试准备/assets/面试准备/image-20230608002035274.png",
     "面试准备/assets/面试准备/image-20230608001200497.png",
     "面试准备/assets/面试准备/image-20230608000659949.png",
-    "面试准备/assets/面试准备",
-    "面试准备/assets",
     "面试准备/面经.md",
     "面试准备/简历.md",
     "开发/工具/Obsidian.md",
@@ -216,10 +232,6 @@
     "框架 中间件/Mybatis.md",
     "框架 中间件/Kafka.md",
     "开发/工具/IDEA.md",
-    "开发/设计模式.md",
-    "开发/单元测试.md",
-    "开发/工具/Git.md",
-    "项目/Lottery/assets/分库分库 Starter/image-20230607210613304.png",
-    "assets/经验/image-20230607100158763.png"
+    "开发/设计模式.md"
   ]
 }

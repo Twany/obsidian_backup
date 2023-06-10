@@ -5,6 +5,10 @@
       "path": "每日输出/Journal.md"
     },
     {
+      "basename": "待处理",
+      "path": "待处理.md"
+    },
+    {
       "basename": "Podcast",
       "path": "Podcast.md"
     },
