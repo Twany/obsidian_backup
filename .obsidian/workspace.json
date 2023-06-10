@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日输出/Journal.md",
+                "file": "经验.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "每日输出/Journal.md",
+                "file": "经验.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "每日输出/Journal.md",
+                "file": "经验.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "每日输出/Journal.md"
+                "file": "经验.md"
               }
             }
           },
@@ -188,11 +188,12 @@
   },
   "active": "322cd0b621c8b21a",
   "lastOpenFiles": [
+    "assets/经验/image-20230610220759819.png",
+    "每日输出/Journal.md",
     "待处理.md",
     "assets/待处理/image-20230610123447720.png",
     "assets/待处理/image-20230610123433168.png",
     "assets/待处理",
-    "每日输出/Journal.md",
     "未命名",
     "待处理",
     "每日输出/2023-06-09.md",
