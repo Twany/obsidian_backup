@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "经验.md",
+                "file": "每日输出/Journal.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "经验.md",
+                "file": "每日输出/Journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "经验.md",
+                "file": "每日输出/Journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "经验.md"
+                "file": "每日输出/Journal.md"
               }
             }
           },
@@ -173,11 +173,11 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "abd9c068248216a8",
+  "active": "322cd0b621c8b21a",
   "lastOpenFiles": [
+    "经验.md",
     "每日输出/Journal.md",
     "Excalidraw/Drawing 2023-06-09 23.35.19.excalidraw.md",
-    "经验.md",
     "assets/经验/image-20230610220759819.png",
     "待处理.md",
     "assets/待处理/image-20230610123447720.png",
