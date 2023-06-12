@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日输出/Journal.md",
+                "file": "经验.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "每日输出/Journal.md",
+                "file": "经验.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "每日输出/Journal.md",
+                "file": "经验.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "每日输出/Journal.md"
+                "file": "经验.md"
               }
             }
           },
@@ -175,8 +175,8 @@
   },
   "active": "322cd0b621c8b21a",
   "lastOpenFiles": [
-    "经验.md",
     "每日输出/Journal.md",
+    "经验.md",
     "Excalidraw/Drawing 2023-06-09 23.35.19.excalidraw.md",
     "assets/经验/image-20230610220759819.png",
     "待处理.md",
