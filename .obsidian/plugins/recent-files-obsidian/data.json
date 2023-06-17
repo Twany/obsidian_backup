@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "压测",
-      "path": "项目/压测.md"
+      "basename": "集合源码",
+      "path": "Java/源码分析/集合源码.md"
     },
     {
       "basename": "经验",
       "path": "经验.md"
+    },
+    {
+      "basename": "压测",
+      "path": "项目/压测.md"
     },
     {
       "basename": "资料推荐",
@@ -35,10 +39,6 @@
     {
       "basename": "分库分库 Starter",
       "path": "项目/Lottery/分库分库 Starter.md"
-    },
-    {
-      "basename": "集合源码",
-      "path": "Java/源码分析/集合源码.md"
     },
     {
       "basename": "awesome-starter",
