@@ -17,4 +17,6 @@
 - [不会敲代码了的个人空间-不会敲代码了个人主页-哔哩哔哩视频](https://space.bilibili.com/427542570?plat_id=1&share_from=space&share_medium=iphone&share_plat=ios&share_session_id=B84DE972-C62A-4FEF-966C-CAC6E6EEAADA&share_source=WEIXIN&share_tag=s_i&timestamp=1683047683&unique_k=yg8vAEQ)
 - [博哥plus的个人空间-博哥plus个人主页-哔哩哔哩视频](https://space.bilibili.com/442900851?plat_id=1&share_from=space&share_medium=iphone&share_plat=ios&share_session_id=675BDFF1-5774-4B7C-A589-924EFFEFAB5C&share_source=WEIXIN&share_tag=s_i&timestamp=1684767864&unique_k=t0oeS1K)
 - 分布式：[https://tangwz.com/](https://tangwz.com/)
+- [简历上写精通Redis？面试官一笑生死难料，Redis内存满了怎么办？结果定薪25k！【Java面试实录】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1eh4y1X75y/?buvid=Y1422518958DC89F440E8F99EA2EB202E71F&is_story_h5=false&mid=fvUvCh5BwXrAzJaP4zq0%2Fg%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=D708179A-75C9-44A0-BF61-603429DAEEE0&share_source=WEIXIN&share_tag=s_i&timestamp=1686892425&unique_k=6XQSecs&up_id=1949322706&vd_source=f276c02689a1b5b52e9b41644a56bc86)
+- 
 
