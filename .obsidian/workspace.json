@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "经验.md",
+                "file": "项目/压测.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "经验.md",
+                "file": "项目/压测.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "经验.md",
+                "file": "项目/压测.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "经验.md"
+                "file": "项目/压测.md"
               }
             }
           },
@@ -175,15 +175,21 @@
   },
   "active": "322cd0b621c8b21a",
   "lastOpenFiles": [
-    "每日输出/Journal.md",
     "经验.md",
+    "项目/压测.md",
+    "资料/资料推荐.md",
+    "资料/assets",
+    "资料",
+    "资料/assets/资料推荐/image-20230617132838751.png",
+    "资料/assets/资料推荐",
+    "assets/assets",
+    "每日输出/Journal.md",
     "Excalidraw/Drawing 2023-06-09 23.35.19.excalidraw.md",
     "assets/经验/image-20230610220759819.png",
     "待处理.md",
     "assets/待处理/image-20230610123447720.png",
     "assets/待处理/image-20230610123433168.png",
     "assets/待处理",
-    "未命名",
     "待处理",
     "每日输出/2023-06-09.md",
     "每日输出/每日Done.md",
@@ -195,12 +201,9 @@
     "每日输出/assets/每日Done",
     "每日输出/assets",
     "项目/Lottery/Lottery.md",
-    "每日输出",
     "项目/Lottery/分库分库 Starter.md",
     "Java/源码分析/集合源码.md",
     "开源/awesome-starter.md",
-    "Java/源码分析",
-    "开源/awesome-starter",
     "项目/Asyncflow.md",
     "面试准备/面试准备.md",
     "面试准备/assets/面试准备/image-20230608093854739.png",
@@ -209,7 +212,6 @@
     "面试准备/assets/面试准备/image-20230608002044613.png",
     "面试准备/assets/面试准备/image-20230608002035274.png",
     "面试准备/assets/面试准备/image-20230608001200497.png",
-    "面试准备/assets/面试准备/image-20230608000659949.png",
     "面试准备/面经.md",
     "面试准备/简历.md",
     "开发/工具/Obsidian.md",
@@ -218,7 +220,6 @@
     "框架 中间件/Spring.md",
     "框架 中间件/Mybatis.md",
     "框架 中间件/Kafka.md",
-    "开发/工具/IDEA.md",
-    "开发/设计模式.md"
+    "开发/工具/IDEA.md"
   ]
 }
