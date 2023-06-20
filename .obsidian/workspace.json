@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试准备/简历.md",
+                "file": "经验.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试准备/简历.md",
+                "file": "经验.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试准备/简历.md",
+                "file": "经验.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试准备/简历.md"
+                "file": "经验.md"
               }
             }
           },
@@ -175,8 +175,8 @@
   },
   "active": "322cd0b621c8b21a",
   "lastOpenFiles": [
-    "开源/dynamic-tp.md",
     "面试准备/简历.md",
+    "开源/dynamic-tp.md",
     "面试准备/assets/简历/image-20230617162901236.png",
     "面试准备/assets/简历/image-20230617162900020.png",
     "面试准备/assets/简历",

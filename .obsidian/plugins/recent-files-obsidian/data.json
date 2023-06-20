@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "经验",
+      "path": "经验.md"
+    },
+    {
       "basename": "简历",
       "path": "面试准备/简历.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "集合源码",
       "path": "Java/源码分析/集合源码.md"
-    },
-    {
-      "basename": "经验",
-      "path": "经验.md"
     },
     {
       "basename": "压测",
