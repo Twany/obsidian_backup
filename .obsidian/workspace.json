@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "经验.md",
+                "file": "每日输出/Journal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3f5d8b64e25fdbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "每日输出/计划.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "经验.md",
+                "file": "每日输出/计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "经验.md",
+                "file": "每日输出/计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "经验.md"
+                "file": "每日输出/计划.md"
               }
             }
           },
@@ -173,20 +186,24 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "322cd0b621c8b21a",
+  "active": "abd9c068248216a8",
   "lastOpenFiles": [
+    "每日输出/Journal.md",
+    "每日输出/计划.md",
+    "Podcast.md",
+    "经验.md",
+    "待处理.md",
+    "开源/Nacos.md",
     "面试准备/简历.md",
     "开源/dynamic-tp.md",
     "面试准备/assets/简历/image-20230617162901236.png",
     "面试准备/assets/简历/image-20230617162900020.png",
     "面试准备/assets/简历",
     "架构/系统设计.md",
-    "Podcast.md",
     "资料/资料推荐.md",
     "面试准备/面经.md",
     "面试准备/面试准备.md",
     "Java/源码分析/集合源码.md",
-    "经验.md",
     "项目/压测.md",
     "项目/assets/压测/image-20230617161645748.png",
     "项目/assets/压测",
@@ -196,10 +213,8 @@
     "资料/assets/资料推荐/image-20230617132838751.png",
     "资料/assets/资料推荐",
     "assets/assets",
-    "每日输出/Journal.md",
     "Excalidraw/Drawing 2023-06-09 23.35.19.excalidraw.md",
     "assets/经验/image-20230610220759819.png",
-    "待处理.md",
     "assets/待处理/image-20230610123447720.png",
     "assets/待处理/image-20230610123433168.png",
     "assets/待处理",
@@ -218,8 +233,6 @@
     "面试准备/assets/面试准备/image-20230608093535549.png",
     "开发/工具/Obsidian.md",
     "框架 中间件/SpringBoot.md",
-    "框架 中间件/Spring.md",
-    "框架 中间件/Mybatis.md",
-    "框架 中间件/Kafka.md"
+    "框架 中间件/Spring.md"
   ]
 }

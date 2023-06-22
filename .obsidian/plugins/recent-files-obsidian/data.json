@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "计划",
+      "path": "每日输出/计划.md"
+    },
+    {
+      "basename": "Journal",
+      "path": "每日输出/Journal.md"
+    },
+    {
+      "basename": "Podcast",
+      "path": "Podcast.md"
+    },
+    {
       "basename": "经验",
       "path": "经验.md"
+    },
+    {
+      "basename": "待处理",
+      "path": "待处理.md"
+    },
+    {
+      "basename": "Nacos",
+      "path": "开源/Nacos.md"
     },
     {
       "basename": "简历",
@@ -15,10 +35,6 @@
     {
       "basename": "系统设计",
       "path": "架构/系统设计.md"
-    },
-    {
-      "basename": "Podcast",
-      "path": "Podcast.md"
     },
     {
       "basename": "资料推荐",
@@ -41,16 +57,8 @@
       "path": "项目/压测.md"
     },
     {
-      "basename": "Journal",
-      "path": "每日输出/Journal.md"
-    },
-    {
       "basename": "Drawing 2023-06-09 23.35.19.excalidraw",
       "path": "Excalidraw/Drawing 2023-06-09 23.35.19.excalidraw.md"
-    },
-    {
-      "basename": "待处理",
-      "path": "待处理.md"
     },
     {
       "basename": "Lottery",

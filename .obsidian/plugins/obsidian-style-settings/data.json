@@ -15,5 +15,7 @@
   "blue-topaz-theme@@line-height-main": 1.4,
   "blue-topaz-theme@@toggle-paragraph-spacing": false,
   "blue-topaz-theme@@file-line-width": 45,
-  "things-style@@default-font-color": true
+  "things-style@@default-font-color": true,
+  "things-style@@h3-color": "#00439F",
+  "things-style@@h4-color": "#865300"
 }
