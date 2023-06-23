@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "简历",
+      "path": "面试准备/简历.md"
+    },
+    {
       "basename": "计划",
       "path": "每日输出/计划.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "待处理",
       "path": "待处理.md"
-    },
-    {
-      "basename": "简历",
-      "path": "面试准备/简历.md"
     },
     {
       "basename": "系统设计",
