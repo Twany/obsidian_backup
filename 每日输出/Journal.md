@@ -13,4 +13,8 @@
 ## 6.23
 - [ ] 每日一题：[2496. 数组中字符串的最大值 - 力扣（Leetcode）](https://leetcode.cn/problems/maximum-value-of-a-string-in-an-array/description/)
 	- [ ] 对于每个字符串，检查是否全是数字，如果是则转整数，不是则计算长度
+- [ ] [468. 验证IP地址 - 力扣（Leetcode）](https://leetcode.cn/problems/validate-ip-address/description/)
+		- [ ] 验证ipv4：split成四段，然后检验长度是否大于0小于4，长度大于1开头是否不为0，最后检验是否都是数字且和小于255
+			- [ ] 和递归拆分ip地址那道题很像
+	- [ ] 验证ipv6：和v4差不多
 
