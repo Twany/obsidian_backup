@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试准备/简历.md",
+                "file": "每日输出/Journal.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试准备/简历.md",
+                "file": "每日输出/Journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试准备/简历.md",
+                "file": "每日输出/Journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试准备/简历.md"
+                "file": "每日输出/Journal.md"
               }
             }
           },
@@ -188,6 +188,8 @@
   },
   "active": "a3f5d8b64e25fdbe",
   "lastOpenFiles": [
+    "面试准备/简历.md",
+    "面试准备/面试准备.md",
     "每日输出/计划.md",
     "开源/dynamic-tp.md",
     "开源/assets/dynamic-tp/image-20230623141305590.png",
@@ -201,14 +203,12 @@
     "Podcast.md",
     "经验.md",
     "待处理.md",
-    "面试准备/简历.md",
     "面试准备/assets/简历/image-20230617162901236.png",
     "面试准备/assets/简历/image-20230617162900020.png",
     "面试准备/assets/简历",
     "架构/系统设计.md",
     "资料/资料推荐.md",
     "面试准备/面经.md",
-    "面试准备/面试准备.md",
     "Java/源码分析/集合源码.md",
     "项目/压测.md",
     "项目/assets/压测/image-20230617161645748.png",

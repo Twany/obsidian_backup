@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Journal",
+      "path": "每日输出/Journal.md"
+    },
+    {
       "basename": "简历",
       "path": "面试准备/简历.md"
+    },
+    {
+      "basename": "面试准备",
+      "path": "面试准备/面试准备.md"
     },
     {
       "basename": "计划",
@@ -15,10 +23,6 @@
     {
       "basename": "Nacos",
       "path": "开源/Nacos.md"
-    },
-    {
-      "basename": "Journal",
-      "path": "每日输出/Journal.md"
     },
     {
       "basename": "NatApp",
@@ -55,10 +59,6 @@
     {
       "basename": "面经",
       "path": "面试准备/面经.md"
-    },
-    {
-      "basename": "面试准备",
-      "path": "面试准备/面试准备.md"
     },
     {
       "basename": "集合源码",
