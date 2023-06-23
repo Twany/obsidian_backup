@@ -5,6 +5,14 @@
       "path": "每日输出/计划.md"
     },
     {
+      "basename": "压测",
+      "path": "项目/Asyncflow/压测.md"
+    },
+    {
+      "basename": "压测",
+      "path": "项目/Lottery/压测.md"
+    },
+    {
       "basename": "Journal",
       "path": "每日输出/Journal.md"
     },
@@ -74,7 +82,7 @@
     },
     {
       "basename": "Asyncflow",
-      "path": "项目/Asyncflow.md"
+      "path": "项目/Asyncflow/Asyncflow.md"
     },
     {
       "basename": "Obsidian",
