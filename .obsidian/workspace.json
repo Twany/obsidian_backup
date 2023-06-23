@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试准备/面经.md",
+                "file": "项目/压测.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试准备/面经.md",
+                "file": "项目/压测.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试准备/面经.md",
+                "file": "项目/压测.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试准备/面经.md"
+                "file": "项目/压测.md"
               }
             }
           },
@@ -188,7 +188,10 @@
   },
   "active": "a3f5d8b64e25fdbe",
   "lastOpenFiles": [
+    "项目/assets/压测/image-20230623200806821.png",
+    "项目/assets/压测/image-20230623200736690.png",
     "项目/Lottery/压测.md",
+    "面试准备/面经.md",
     "项目/Lottery/分库分库 Starter.md",
     "项目/Asyncflow/Asyncflow.md",
     "每日输出/计划.md",
@@ -211,7 +214,6 @@
     "面试准备/assets/简历",
     "架构/系统设计.md",
     "资料/资料推荐.md",
-    "面试准备/面经.md",
     "Java/源码分析/集合源码.md",
     "项目/assets/压测/image-20230617161645748.png",
     "项目/assets/压测",
@@ -231,8 +233,6 @@
     "每日输出/assets/每日Done/2023-06-09.md",
     "2023-06-09.md",
     "项目/Lottery/Lottery.md",
-    "开源/awesome-starter.md",
-    "面试准备/assets/面试准备/image-20230608093854739.png",
-    "面试准备/assets/面试准备/image-20230608093634144.png"
+    "面试准备/assets/面试准备/image-20230608093854739.png"
   ]
 }
