@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "dynamic-tp",
+      "path": "开源/dynamic-tp.md"
+    },
+    {
       "basename": "Nacos",
       "path": "开源/Nacos.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "简历",
       "path": "面试准备/简历.md"
-    },
-    {
-      "basename": "dynamic-tp",
-      "path": "开源/dynamic-tp.md"
     },
     {
       "basename": "系统设计",
