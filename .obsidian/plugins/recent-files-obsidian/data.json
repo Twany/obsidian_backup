@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Nacos",
+      "path": "开源/Nacos.md"
+    },
+    {
       "basename": "计划",
       "path": "每日输出/计划.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "待处理",
       "path": "待处理.md"
-    },
-    {
-      "basename": "Nacos",
-      "path": "开源/Nacos.md"
     },
     {
       "basename": "简历",
