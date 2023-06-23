@@ -12,4 +12,5 @@
 
 ## 6.23
 - [ ] 每日一题：[2496. 数组中字符串的最大值 - 力扣（Leetcode）](https://leetcode.cn/problems/maximum-value-of-a-string-in-an-array/description/)
+	- [ ] 对于每个字符串，检查是否全是数字，如果是则转整数，不是则计算长度
 
