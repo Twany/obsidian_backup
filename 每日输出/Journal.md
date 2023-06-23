@@ -11,5 +11,5 @@
 	- 后缀和
 
 ## 6.23
-- [ ] 
+- [ ] 每日一题：[2496. 数组中字符串的最大值 - 力扣（Leetcode）](https://leetcode.cn/problems/maximum-value-of-a-string-in-an-array/description/)
 
