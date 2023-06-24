@@ -21,3 +21,10 @@
 	- [ ] 需要注意的是从克隆map取node赋值next和random时，不是取的原本node，而是clone的：深拷贝要保证完全拷贝，包括属性
 	- [ ] 迭代法 + 哈希法
 
+## 6.24
+- [498. 对角线遍历 - 力扣（Leetcode）](https://leetcode.cn/problems/diagonal-traverse/)
+	- 遍历一次方向反一次
+- [402. 移掉 K 位数字 - 力扣（Leetcode）](https://leetcode.cn/problems/remove-k-digits/)
+	- 单调栈
+	- StringBuilder API ：`deleteCharAt()`
+- 
