@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Journal",
+      "path": "每日输出/Journal.md"
+    },
+    {
       "basename": "压测",
       "path": "项目/压测.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "计划",
       "path": "每日输出/计划.md"
-    },
-    {
-      "basename": "Journal",
-      "path": "每日输出/Journal.md"
     },
     {
       "basename": "简历",
