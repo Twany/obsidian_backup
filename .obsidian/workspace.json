@@ -30,6 +30,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d3cd2e4a9c994709",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "算法/力扣算法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -188,8 +200,13 @@
   },
   "active": "a3f5d8b64e25fdbe",
   "lastOpenFiles": [
-    "每日输出/Journal.md",
+    "算法/力扣算法.md",
+    "算法/assets/力扣算法/代码小抄：十大排序算法（Java实现）v1.1.pdf",
+    "算法/assets/力扣算法",
+    "算法/assets",
+    "未命名.md",
     "每日输出/计划.md",
+    "每日输出/Journal.md",
     "每日输出/assets/计划/image-20230624151414359.png",
     "每日输出/assets/计划/image-20230624151336258.png",
     "每日输出/assets/计划",
@@ -222,16 +239,11 @@
     "项目/assets/压测",
     "项目/assets",
     "资料/assets",
-    "资料",
     "资料/assets/资料推荐/image-20230617132838751.png",
-    "资料/assets/资料推荐",
-    "assets/assets",
     "Excalidraw/Drawing 2023-06-09 23.35.19.excalidraw.md",
     "assets/经验/image-20230610220759819.png",
     "每日输出/2023-06-09.md",
     "每日输出/每日Done.md",
-    "每日输出/assets/每日Done/2023-06-09.md",
-    "2023-06-09.md",
-    "项目/Lottery/Lottery.md"
+    "每日输出/assets/每日Done/2023-06-09.md"
   ]
 }
