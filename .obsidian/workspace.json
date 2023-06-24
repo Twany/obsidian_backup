@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日输出/Journal.md",
+                "file": "每日输出/计划.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "每日输出/Journal.md",
+                "file": "每日输出/计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "每日输出/Journal.md",
+                "file": "每日输出/计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "每日输出/Journal.md"
+                "file": "每日输出/计划.md"
               }
             }
           },
@@ -188,11 +188,11 @@
   },
   "active": "a3f5d8b64e25fdbe",
   "lastOpenFiles": [
+    "每日输出/Journal.md",
     "每日输出/计划.md",
     "每日输出/assets/计划/image-20230624151414359.png",
     "每日输出/assets/计划/image-20230624151336258.png",
     "每日输出/assets/计划",
-    "每日输出/Journal.md",
     "项目/压测.md",
     "项目/assets/压测/image-20230623200806821.png",
     "项目/assets/压测/image-20230623200736690.png",
