@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "计划",
+      "path": "每日输出/计划.md"
+    },
+    {
       "basename": "Journal",
       "path": "每日输出/Journal.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Asyncflow",
       "path": "项目/Asyncflow/Asyncflow.md"
-    },
-    {
-      "basename": "计划",
-      "path": "每日输出/计划.md"
     },
     {
       "basename": "简历",
