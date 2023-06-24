@@ -5,16 +5,24 @@
       "path": "每日输出/计划.md"
     },
     {
+      "basename": "Journal",
+      "path": "每日输出/Journal.md"
+    },
+    {
+      "basename": "基础",
+      "path": "Java/基础.md"
+    },
+    {
+      "basename": "容器",
+      "path": "Java/容器.md"
+    },
+    {
       "basename": "力扣算法",
       "path": "算法/力扣算法.md"
     },
     {
       "basename": "未命名",
       "path": "未命名.md"
-    },
-    {
-      "basename": "Journal",
-      "path": "每日输出/Journal.md"
     },
     {
       "basename": "压测",
@@ -147,14 +155,6 @@
     {
       "basename": "并发",
       "path": "Java/并发.md"
-    },
-    {
-      "basename": "基础",
-      "path": "Java/基础.md"
-    },
-    {
-      "basename": "容器",
-      "path": "Java/容器.md"
     },
     {
       "basename": "JVM",
