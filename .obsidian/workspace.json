@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日输出/Journal.md",
+                "file": "项目/支付梳理/Q&A.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "每日输出/Journal.md",
+                "file": "项目/支付梳理/Q&A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "每日输出/Journal.md",
+                "file": "项目/支付梳理/Q&A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "每日输出/Journal.md"
+                "file": "项目/支付梳理/Q&A.md"
               }
             }
           },
@@ -197,11 +197,17 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "abd9c068248216a8",
+  "active": "322cd0b621c8b21a",
   "lastOpenFiles": [
+    "实习/实习总结.md",
+    "项目/支付梳理/Q&A.md",
+    "实习/assets/实习总结/image-20230627203109417.png",
+    "实习/assets/实习总结",
+    "实习/assets",
+    "每日输出/Journal.md",
+    "实习",
     "项目/未命名.md",
     "项目/支付梳理",
-    "每日输出/Journal.md",
     "每日输出/计划.md",
     "Java/基础.md",
     "Java/容器.md",
@@ -234,15 +240,10 @@
     "待处理.md",
     "面试准备/assets/简历/image-20230617162901236.png",
     "面试准备/assets/简历/image-20230617162900020.png",
-    "面试准备/assets/简历",
     "架构/系统设计.md",
     "资料/资料推荐.md",
     "Java/源码分析/集合源码.md",
     "项目/assets/压测/image-20230617161645748.png",
-    "项目/assets/压测",
-    "项目/assets",
-    "资料/assets/资料推荐/image-20230617132838751.png",
-    "Excalidraw/Drawing 2023-06-09 23.35.19.excalidraw.md",
-    "assets/经验/image-20230610220759819.png"
+    "资料/assets/资料推荐/image-20230617132838751.png"
   ]
 }
