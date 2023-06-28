@@ -1,6 +1,9 @@
 ### 支付架构
 [支付系统就该这么设计，稳的一批！！ (qq.com)](https://mp.weixin.qq.com/s/Sp2nROiAS_JvPIKDEl_Zcw)
 https://mp.weixin.qq.com/s/wCi0QR9W95npvcAK-_TbuA
+https://mp.weixin.qq.com/s/cVoTPYyccMa-YKmqmxDeTw
+![[image-20230628234306096.png|475]]
+
 
 ![[image-20230627224138397.png|800]]
 
