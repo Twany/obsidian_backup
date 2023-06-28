@@ -1,4 +1,5 @@
-### 稳拿offer的支付架构
+### 支付架构
+[支付系统就该这么设计，稳的一批！！ (qq.com)](https://mp.weixin.qq.com/s/Sp2nROiAS_JvPIKDEl_Zcw)
 ![[image-20230627224138397.png|800]]
 
 ### 说一下整个后台支付架构，分了几个模块
