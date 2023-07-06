@@ -1,8 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "未命名.md"
+    },
+    {
+      "basename": "实习经历",
+      "path": "实习/did/实习经历.md"
+    },
+    {
+      "basename": "经验",
+      "path": "经验.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "实习/未命名.md"
+    },
+    {
+      "basename": "基础",
+      "path": "Java/基础.md"
+    },
+    {
+      "basename": "力扣算法",
+      "path": "算法/力扣算法.md"
+    },
+    {
+      "basename": "预授权 Preauth",
+      "path": "实习/did/收银梳理/预授权 Preauth.md"
+    },
+    {
       "basename": "实习总结",
       "path": "实习/实习总结.md"
+    },
+    {
+      "basename": "日志规范",
+      "path": "实习/日志规范.md"
+    },
+    {
+      "basename": "image-20230627203109417",
+      "path": "实习/assets/实习总结/image-20230627203109417.png"
+    },
+    {
+      "basename": "监控报警优化",
+      "path": "实习/did/监控报警优化.md"
     },
     {
       "basename": "高性能",
@@ -21,20 +61,8 @@
       "path": "每日输出/计划.md"
     },
     {
-      "basename": "基础",
-      "path": "Java/基础.md"
-    },
-    {
       "basename": "容器",
       "path": "Java/容器.md"
-    },
-    {
-      "basename": "力扣算法",
-      "path": "算法/力扣算法.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "未命名.md"
     },
     {
       "basename": "压测",
@@ -83,10 +111,6 @@
     {
       "basename": "Podcast",
       "path": "Podcast.md"
-    },
-    {
-      "basename": "经验",
-      "path": "经验.md"
     },
     {
       "basename": "待处理",
@@ -175,30 +199,6 @@
     {
       "basename": "高可用",
       "path": "架构/高可用.md"
-    },
-    {
-      "basename": "image-20230607210613304",
-      "path": "项目/Lottery/assets/分库分库 Starter/image-20230607210613304.png"
-    },
-    {
-      "basename": "ChatGPT",
-      "path": "开发/工具/ChatGPT.md"
-    },
-    {
-      "basename": "image-20230607091814064",
-      "path": "assets/经验/image-20230607091814064.png"
-    },
-    {
-      "basename": "Pasted image 20230606225252",
-      "path": "assets/测试/Pasted image 20230606225252.png"
-    },
-    {
-      "basename": "1bde7e11cf67c61b6be1e8b5b10fdf60_MD5",
-      "path": "assets/测试/1bde7e11cf67c61b6be1e8b5b10fdf60_MD5.png"
-    },
-    {
-      "basename": "cbff2f0cc75088c125f664adb477554c_MD5",
-      "path": "assets/测试/cbff2f0cc75088c125f664adb477554c_MD5.png"
     }
   ],
   "omittedPaths": [],
