@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "322cd0b621c8b21a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3f5d8b64e25fdbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/基础.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d3cd2e4a9c994709",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法/力扣算法.md",
+                "file": "经验.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "经验.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "经验.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "经验.md"
               }
             }
           },
@@ -197,14 +173,14 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "abd9c068248216a8",
+  "active": "d3cd2e4a9c994709",
   "lastOpenFiles": [
-    "实习/did/实习经历.md",
+    "算法/力扣算法.md",
+    "Java/基础.md",
     "未命名.md",
+    "实习/did/实习经历.md",
     "经验.md",
     "实习/未命名.md",
-    "Java/基础.md",
-    "算法/力扣算法.md",
     "实习/did/收银梳理/预授权 Preauth.md",
     "实习/实习总结.md",
     "实习/日志规范.md",
