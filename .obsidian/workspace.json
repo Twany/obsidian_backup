@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开源/开源项目推荐.md",
+                "file": "开源/awesome-starter.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开源/开源项目推荐.md",
+                "file": "开源/awesome-starter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开源/开源项目推荐.md",
+                "file": "开源/awesome-starter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开源/开源项目推荐.md"
+                "file": "开源/awesome-starter.md"
               }
             }
           },
@@ -175,8 +175,9 @@
   },
   "active": "d3cd2e4a9c994709",
   "lastOpenFiles": [
-    "经验.md",
+    "开源/dynamic-tp.md",
     "开源/开源项目推荐.md",
+    "经验.md",
     "算法/力扣算法.md",
     "Java/基础.md",
     "未命名.md",
@@ -219,7 +220,6 @@
     "实习/did/file/监控报警优化调研 1.pptx",
     "实习/did/file/log4j2.xml.md",
     "架构/高性能.md",
-    "项目/支付梳理/Q&A.md",
-    "每日输出/Journal.md"
+    "项目/支付梳理/Q&A.md"
   ]
 }

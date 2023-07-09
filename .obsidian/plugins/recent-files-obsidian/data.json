@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "awesome-starter",
+      "path": "开源/awesome-starter.md"
+    },
+    {
+      "basename": "dynamic-tp",
+      "path": "开源/dynamic-tp.md"
+    },
+    {
       "basename": "开源项目推荐",
       "path": "开源/开源项目推荐.md"
     },
@@ -93,10 +101,6 @@
       "path": "面试准备/面试准备.md"
     },
     {
-      "basename": "dynamic-tp",
-      "path": "开源/dynamic-tp.md"
-    },
-    {
       "basename": "Nacos",
       "path": "开源/Nacos.md"
     },
@@ -135,10 +139,6 @@
     {
       "basename": "Lottery",
       "path": "项目/Lottery/Lottery.md"
-    },
-    {
-      "basename": "awesome-starter",
-      "path": "开源/awesome-starter.md"
     },
     {
       "basename": "Obsidian",
