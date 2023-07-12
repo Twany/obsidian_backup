@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开源/开源项目推荐.md",
+                "file": "架构/系统设计.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开源/开源项目推荐.md",
+                "file": "架构/系统设计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开源/开源项目推荐.md",
+                "file": "架构/系统设计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开源/开源项目推荐.md"
+                "file": "架构/系统设计.md"
               }
             }
           },
@@ -175,51 +175,50 @@
   },
   "active": "d3cd2e4a9c994709",
   "lastOpenFiles": [
+    "面试准备/简历.md",
+    "面试准备/assets/简历/image-20230712110542082.png",
+    "算法/力扣算法.md",
+    "算法/assets/力扣算法/image-20230712110114653.png",
+    "算法/领域算法.md",
+    "架构/分布式组件.md",
+    "架构/系统设计.md",
+    "面试准备/assets/简历/image-20230712105727833.png",
+    "实习/did/收银梳理/Q&A.md",
+    "实习/did/收银梳理/assets/Q&A/image-20230712105550170.png",
+    "实习/did/收银梳理/assets/Q&A/image-20230712100333393.png",
+    "算法/assets/领域算法/image-20230712100050340.png",
+    "算法/assets/领域算法",
+    "架构/高可用.md",
+    "项目/支付梳理/Q&A.md",
+    "实习/did/收银梳理/assets/Q&A/image-20230712094006281.png",
+    "实习/did/收银梳理/assets/Q&A/image-20230712094001478.png",
+    "实习/did/收银梳理/assets/Q&A",
+    "实习/did/收银梳理/状态枚举.md",
+    "实习/日志规范.md",
+    "实习/assets/日志规范/image-20230712092006594.png",
+    "实习/assets/日志规范/image-20230712092000399.png",
+    "实习/assets/日志规范",
+    "实习/did/收银梳理/摘录.md",
+    "实习/did/收银梳理/assets/摘录",
+    "实习/did/收银梳理/assets",
+    "实习/did/监控报警优化.md",
+    "实习/did/收银梳理/数据库.md",
+    "实习/未命名 1.md",
+    "实习/did/log4j2.xml 编写实例.md",
+    "实习/did/项目构建.md",
+    "实习/did/实习经历.md",
+    "开源/开源项目推荐.md",
     "开源/awesome-starter.md",
     "开源/dynamic-tp.md",
-    "开源/开源项目推荐.md",
     "经验.md",
-    "算法/力扣算法.md",
     "Java/基础.md",
     "未命名.md",
-    "实习/did/实习经历.md",
     "实习/未命名.md",
     "实习/did/收银梳理/预授权 Preauth.md",
-    "实习/实习总结.md",
-    "实习/日志规范.md",
-    "实习/assets/实习总结/image-20230627203109417.png",
     "实习/assets/实习总结/监控报警优化调研.pptx",
     "实习/日志规范.txt",
-    "实习/did/监控报警优化.md",
     "实习/监控报警优化调研.pptx",
-    "实习/did/收银梳理/状态枚举.md",
-    "实习/did/收银梳理/数据库梳理.md",
-    "实习/did/收银梳理/数据库.md",
-    "实习/did/收银梳理/收银系统架构.md",
-    "实习/did/收银梳理/支付总流程.md",
-    "实习/did/收银梳理/场景梳理.md",
-    "实习/did/收银梳理/Q&A.md",
     "实习/did/收银梳理",
-    "实习/did/串讲文档/收银&支付分享 fxh.md",
-    "实习/did/串讲文档/串讲1.md",
-    "实习/did/串讲文档",
-    "实习/did/项目构建.md",
-    "实习/did/log4j2.xml 编写实例.md",
-    "实习/did/file/Pasted image 20230626161012.png",
-    "实习/did/file/Pasted image 20230704161840.png",
-    "实习/did/file/Pasted image 20230704112138.png",
-    "实习/did/file/Pasted image 20230704170144.png",
-    "实习/did/file/Pasted image 20230705095008.png",
-    "实习/did/file/callback.png",
-    "实习/did/file/Pasted image 20230704161855.png",
-    "实习/did/file/Pasted image 20230704170807.png",
-    "实习/did/file/疑问 2.txt",
-    "实习/did/file/Pasted image 20230704163857.png",
-    "实习/did/file/疑问 1.txt",
-    "实习/did/file/监控报警优化调研.pptx",
-    "实习/did/file/疑问.txt",
-    "实习/did/file/监控报警优化调研 1.pptx",
-    "实习/did/file/log4j2.xml.md",
-    "架构/高性能.md"
+    "实习/did/串讲文档"
   ]
 }

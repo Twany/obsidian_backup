@@ -1,6 +1,74 @@
 {
   "recentFiles": [
     {
+      "basename": "系统设计",
+      "path": "架构/系统设计.md"
+    },
+    {
+      "basename": "简历",
+      "path": "面试准备/简历.md"
+    },
+    {
+      "basename": "力扣算法",
+      "path": "算法/力扣算法.md"
+    },
+    {
+      "basename": "领域算法",
+      "path": "算法/领域算法.md"
+    },
+    {
+      "basename": "分布式组件",
+      "path": "架构/分布式组件.md"
+    },
+    {
+      "basename": "Q&A",
+      "path": "实习/did/收银梳理/Q&A.md"
+    },
+    {
+      "basename": "高可用",
+      "path": "架构/高可用.md"
+    },
+    {
+      "basename": "Q&A",
+      "path": "项目/支付梳理/Q&A.md"
+    },
+    {
+      "basename": "状态枚举",
+      "path": "实习/did/收银梳理/状态枚举.md"
+    },
+    {
+      "basename": "日志规范",
+      "path": "实习/日志规范.md"
+    },
+    {
+      "basename": "摘录",
+      "path": "实习/did/收银梳理/摘录.md"
+    },
+    {
+      "basename": "监控报警优化",
+      "path": "实习/did/监控报警优化.md"
+    },
+    {
+      "basename": "数据库",
+      "path": "实习/did/收银梳理/数据库.md"
+    },
+    {
+      "basename": "未命名 1",
+      "path": "实习/未命名 1.md"
+    },
+    {
+      "basename": "log4j2.xml 编写实例",
+      "path": "实习/did/log4j2.xml 编写实例.md"
+    },
+    {
+      "basename": "项目构建",
+      "path": "实习/did/项目构建.md"
+    },
+    {
+      "basename": "实习经历",
+      "path": "实习/did/实习经历.md"
+    },
+    {
       "basename": "开源项目推荐",
       "path": "开源/开源项目推荐.md"
     },
@@ -17,16 +85,8 @@
       "path": "经验.md"
     },
     {
-      "basename": "力扣算法",
-      "path": "算法/力扣算法.md"
-    },
-    {
       "basename": "基础",
       "path": "Java/基础.md"
-    },
-    {
-      "basename": "实习经历",
-      "path": "实习/did/实习经历.md"
     },
     {
       "basename": "未命名",
@@ -41,24 +101,12 @@
       "path": "实习/实习总结.md"
     },
     {
-      "basename": "日志规范",
-      "path": "实习/日志规范.md"
-    },
-    {
       "basename": "image-20230627203109417",
       "path": "实习/assets/实习总结/image-20230627203109417.png"
     },
     {
-      "basename": "监控报警优化",
-      "path": "实习/did/监控报警优化.md"
-    },
-    {
       "basename": "高性能",
       "path": "架构/高性能.md"
-    },
-    {
-      "basename": "Q&A",
-      "path": "项目/支付梳理/Q&A.md"
     },
     {
       "basename": "Journal",
@@ -93,10 +141,6 @@
       "path": "项目/Asyncflow/Asyncflow.md"
     },
     {
-      "basename": "简历",
-      "path": "面试准备/简历.md"
-    },
-    {
       "basename": "面试准备",
       "path": "面试准备/面试准备.md"
     },
@@ -119,10 +163,6 @@
     {
       "basename": "待处理",
       "path": "待处理.md"
-    },
-    {
-      "basename": "系统设计",
-      "path": "架构/系统设计.md"
     },
     {
       "basename": "资料推荐",
@@ -159,46 +199,6 @@
     {
       "basename": "Kafka",
       "path": "框架 中间件/Kafka.md"
-    },
-    {
-      "basename": "IDEA",
-      "path": "开发/工具/IDEA.md"
-    },
-    {
-      "basename": "设计模式",
-      "path": "开发/设计模式.md"
-    },
-    {
-      "basename": "单元测试",
-      "path": "开发/单元测试.md"
-    },
-    {
-      "basename": "Git",
-      "path": "开发/工具/Git.md"
-    },
-    {
-      "basename": "Linux",
-      "path": "开发/工具/Linux.md"
-    },
-    {
-      "basename": "Docker",
-      "path": "开发/工具/Docker.md"
-    },
-    {
-      "basename": "新特性",
-      "path": "Java/新特性.md"
-    },
-    {
-      "basename": "并发",
-      "path": "Java/并发.md"
-    },
-    {
-      "basename": "JVM",
-      "path": "Java/JVM.md"
-    },
-    {
-      "basename": "高可用",
-      "path": "架构/高可用.md"
     }
   ],
   "omittedPaths": [],
