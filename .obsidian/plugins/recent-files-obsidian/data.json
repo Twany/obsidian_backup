@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "分库分库 Starter",
-      "path": "项目/Lottery/分库分库 Starter.md"
+      "basename": "高可用",
+      "path": "架构/高可用.md"
+    },
+    {
+      "basename": "awesome-starter",
+      "path": "开源/awesome-starter.md"
+    },
+    {
+      "basename": "开源项目推荐",
+      "path": "开源/开源项目推荐.md"
+    },
+    {
+      "basename": "未命名 1",
+      "path": "实习/未命名 1.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "实习/未命名.md"
     },
     {
       "basename": "资料推荐",
@@ -11,6 +27,14 @@
     {
       "basename": "经验",
       "path": "经验.md"
+    },
+    {
+      "basename": "一些感悟",
+      "path": "软实力/一些感悟.md"
+    },
+    {
+      "basename": "分库分库 Starter",
+      "path": "项目/Lottery/分库分库 Starter.md"
     },
     {
       "basename": "资料",
@@ -73,14 +97,6 @@
       "path": "架构/系统设计.md"
     },
     {
-      "basename": "高可用",
-      "path": "架构/高可用.md"
-    },
-    {
-      "basename": "awesome-starter",
-      "path": "开源/awesome-starter.md"
-    },
-    {
       "basename": "压测",
       "path": "项目/压测.md"
     },
@@ -121,10 +137,6 @@
       "path": "实习/did/收银梳理/数据库.md"
     },
     {
-      "basename": "未命名 1",
-      "path": "实习/未命名 1.md"
-    },
-    {
       "basename": "log4j2.xml 编写实例",
       "path": "实习/did/log4j2.xml 编写实例.md"
     },
@@ -133,16 +145,8 @@
       "path": "实习/did/项目构建.md"
     },
     {
-      "basename": "开源项目推荐",
-      "path": "开源/开源项目推荐.md"
-    },
-    {
       "basename": "dynamic-tp",
       "path": "开源/dynamic-tp.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "实习/未命名.md"
     },
     {
       "basename": "预授权 Preauth",
@@ -195,10 +199,6 @@
     {
       "basename": "Drawing 2023-06-09 23.35.19.excalidraw",
       "path": "Excalidraw/Drawing 2023-06-09 23.35.19.excalidraw.md"
-    },
-    {
-      "basename": "Lottery",
-      "path": "项目/Lottery/Lottery.md"
     }
   ],
   "omittedPaths": [],

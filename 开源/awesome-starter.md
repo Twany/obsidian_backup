@@ -10,6 +10,8 @@
 [自己写分布式限流组件-基于Redis的注解支持的Ratelimiter - 掘金 (juejin.cn)](https://juejin.cn/post/6844903700650000398)
 https://github.com/TaXueWWL/shield-ratelimter
 
+[Java架构-限流技术设计 - 掘金 (juejin.cn)](https://juejin.cn/post/7251050775858020408)
+
 ## 全链路追踪 Starter
 [分布式链路追踪实战-完 (lianglianglee.com)](https://learn.lianglianglee.com/%E4%B8%93%E6%A0%8F/%E5%88%86%E5%B8%83%E5%BC%8F%E9%93%BE%E8%B7%AF%E8%BF%BD%E8%B8%AA%E5%AE%9E%E6%88%98-%E5%AE%8C)
 [自己写分布式链路追踪框架1--TraceId/SpanId/ParentSpanId生成及传递 - 掘金 (juejin.cn)](https://juejin.cn/post/6844903669851242509)[自己写分布式链路追踪框架2-包装日志组件自动输出traceId - 掘金 (juejin.cn)](https://juejin.cn/post/6844903676964765709)
