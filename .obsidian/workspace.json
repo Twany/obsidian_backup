@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "架构/系统设计.md",
+                "file": "面试准备/面试准备.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "架构/系统设计.md",
+                "file": "面试准备/面试准备.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "架构/系统设计.md",
+                "file": "面试准备/面试准备.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "架构/系统设计.md"
+                "file": "面试准备/面试准备.md"
               }
             }
           },
@@ -175,6 +175,7 @@
   },
   "active": "d3cd2e4a9c994709",
   "lastOpenFiles": [
+    "架构/系统设计.md",
     "实习/did/收银梳理/Q&A.md",
     "实习/did/实习经历.md",
     "框架 中间件/Spring.md",
@@ -182,7 +183,6 @@
     "开源/awesome-starter.md",
     "资料/资料推荐.md",
     "资料/assets/资料推荐/十年码农内功2023.7.2.pdf",
-    "架构/系统设计.md",
     "架构/assets/系统设计/image-20230712161739730.png",
     "架构/assets/系统设计/image-20230712161730445.png",
     "架构/assets/系统设计/image-20230712161722034.png",

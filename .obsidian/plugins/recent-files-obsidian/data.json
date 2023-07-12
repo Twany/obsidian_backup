@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "面试准备",
+      "path": "面试准备/面试准备.md"
+    },
+    {
       "basename": "系统设计",
       "path": "架构/系统设计.md"
     },
@@ -91,10 +95,6 @@
     {
       "basename": "简历",
       "path": "面试准备/简历.md"
-    },
-    {
-      "basename": "面试准备",
-      "path": "面试准备/面试准备.md"
     },
     {
       "basename": "设计模式",
