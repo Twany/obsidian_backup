@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "多线程算法",
+      "path": "算法/多线程算法.md"
+    },
+    {
       "basename": "收银系统架构",
       "path": "实习/did/收银梳理/收银系统架构.md"
     },
@@ -67,10 +71,6 @@
     {
       "basename": "经验",
       "path": "经验.md"
-    },
-    {
-      "basename": "多线程算法",
-      "path": "算法/多线程算法.md"
     },
     {
       "basename": "高可用",
