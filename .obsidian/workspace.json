@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试准备/面试准备.md",
+                "file": "软实力/英语.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试准备/面试准备.md",
+                "file": "软实力/英语.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试准备/面试准备.md",
+                "file": "软实力/英语.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试准备/面试准备.md"
+                "file": "软实力/英语.md"
               }
             }
           },
@@ -175,6 +175,8 @@
   },
   "active": "d3cd2e4a9c994709",
   "lastOpenFiles": [
+    "面试准备/面试准备.md",
+    "软实力/英语.md",
     "架构/系统设计.md",
     "实习/did/收银梳理/Q&A.md",
     "实习/did/实习经历.md",
@@ -215,7 +217,6 @@
     "实习/did/assets",
     "实习/实习总结.md",
     "面试准备/简历.md",
-    "面试准备/面试准备.md",
     "开发/设计模式.md",
     "架构/assets/高性能",
     "架构/assets/系统设计",

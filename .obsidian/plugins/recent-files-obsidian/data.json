@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "英语",
+      "path": "软实力/英语.md"
+    },
+    {
       "basename": "面试准备",
       "path": "面试准备/面试准备.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "压测",
       "path": "项目/Asyncflow/压测.md"
-    },
-    {
-      "basename": "Podcast",
-      "path": "Podcast.md"
     }
   ],
   "omittedPaths": [],
