@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "软实力/英语.md",
+                "file": "面试准备/简历.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "软实力/英语.md",
+                "file": "面试准备/简历.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "软实力/英语.md",
+                "file": "面试准备/简历.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "软实力/英语.md"
+                "file": "面试准备/简历.md"
               }
             }
           },
@@ -175,6 +175,9 @@
   },
   "active": "d3cd2e4a9c994709",
   "lastOpenFiles": [
+    "资料/资料推荐.md",
+    "资料/assets/资料推荐/image-20230712170057545.png",
+    "面试准备/简历.md",
     "面试准备/面试准备.md",
     "软实力/英语.md",
     "架构/系统设计.md",
@@ -183,7 +186,6 @@
     "框架 中间件/Spring.md",
     "开源/开源项目推荐.md",
     "开源/awesome-starter.md",
-    "资料/资料推荐.md",
     "资料/assets/资料推荐/十年码农内功2023.7.2.pdf",
     "架构/assets/系统设计/image-20230712161739730.png",
     "架构/assets/系统设计/image-20230712161730445.png",
@@ -201,7 +203,6 @@
     "经验.md",
     "assets/经验/image-20230712145521614.png",
     "算法/多线程算法.md",
-    "算法/assets/多线程算法/image-20230712145330009.png",
     "算法/assets/多线程算法",
     "架构/高可用.md",
     "实习/未命名 1.md",
@@ -216,8 +217,6 @@
     "实习/did/assets/实习经历",
     "实习/did/assets",
     "实习/实习总结.md",
-    "面试准备/简历.md",
-    "开发/设计模式.md",
     "架构/assets/高性能",
     "架构/assets/系统设计",
     "架构/assets"
