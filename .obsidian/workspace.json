@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/线上问题排查.md",
+                "file": "项目/Lottery/分库分库 Starter.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/线上问题排查.md",
+                "file": "项目/Lottery/分库分库 Starter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/线上问题排查.md",
+                "file": "项目/Lottery/分库分库 Starter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/线上问题排查.md"
+                "file": "项目/Lottery/分库分库 Starter.md"
               }
             }
           },
@@ -175,8 +175,14 @@
   },
   "active": "d3cd2e4a9c994709",
   "lastOpenFiles": [
-    "Java/基础.md",
+    "资料/资料推荐.md",
+    "资料/assets/资料推荐/image-20230712143259040.png",
+    "资料/assets/资料推荐/image-20230712143233458.png",
+    "经验.md",
+    "数据库/MySQL/资料.md",
     "Java/线上问题排查.md",
+    "Java/容器.md",
+    "Java/基础.md",
     "实习/did/实习经历.md",
     "实习/did/assets/实习经历/Pasted image 20230712140825.png",
     "实习/did/assets/实习经历/image-20230712140818957.png",
@@ -206,20 +212,14 @@
     "项目/assets/压测/image-20230712133310841.png",
     "面试准备/assets/简历/image-20230712110542082.png",
     "算法/力扣算法.md",
-    "算法/assets/力扣算法/image-20230712110114653.png",
     "算法/领域算法.md",
     "架构/分布式组件.md",
-    "面试准备/assets/简历/image-20230712105727833.png",
     "算法/assets/领域算法",
     "项目/支付梳理/Q&A.md",
     "实习/did/收银梳理/assets/Q&A",
     "实习/did/收银梳理/状态枚举.md",
-    "实习/日志规范.md",
     "实习/assets/日志规范",
-    "实习/did/收银梳理/摘录.md",
     "实习/did/收银梳理/assets/摘录",
-    "实习/did/收银梳理/assets",
-    "实习/did/监控报警优化.md",
-    "实习/did/收银梳理/数据库.md"
+    "实习/did/收银梳理/assets"
   ]
 }

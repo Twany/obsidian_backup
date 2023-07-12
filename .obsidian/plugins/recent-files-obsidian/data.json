@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "分库分库 Starter",
+      "path": "项目/Lottery/分库分库 Starter.md"
+    },
+    {
+      "basename": "资料推荐",
+      "path": "资料/资料推荐.md"
+    },
+    {
+      "basename": "经验",
+      "path": "经验.md"
+    },
+    {
+      "basename": "资料",
+      "path": "数据库/MySQL/资料.md"
+    },
+    {
       "basename": "线上问题排查",
       "path": "Java/线上问题排查.md"
+    },
+    {
+      "basename": "容器",
+      "path": "Java/容器.md"
     },
     {
       "basename": "基础",
@@ -27,10 +47,6 @@
     {
       "basename": "设计模式",
       "path": "开发/设计模式.md"
-    },
-    {
-      "basename": "分库分库 Starter",
-      "path": "项目/Lottery/分库分库 Starter.md"
     },
     {
       "basename": "Q&A",
@@ -125,10 +141,6 @@
       "path": "开源/dynamic-tp.md"
     },
     {
-      "basename": "经验",
-      "path": "经验.md"
-    },
-    {
       "basename": "未命名",
       "path": "实习/未命名.md"
     },
@@ -147,10 +159,6 @@
     {
       "basename": "计划",
       "path": "每日输出/计划.md"
-    },
-    {
-      "basename": "容器",
-      "path": "Java/容器.md"
     },
     {
       "basename": "压测",
@@ -181,10 +189,6 @@
       "path": "待处理.md"
     },
     {
-      "basename": "资料推荐",
-      "path": "资料/资料推荐.md"
-    },
-    {
       "basename": "集合源码",
       "path": "Java/源码分析/集合源码.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Lottery",
       "path": "项目/Lottery/Lottery.md"
-    },
-    {
-      "basename": "Obsidian",
-      "path": "开发/工具/Obsidian.md"
     }
   ],
   "omittedPaths": [],
