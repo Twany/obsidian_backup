@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "系统设计",
+      "path": "架构/系统设计.md"
+    },
+    {
+      "basename": "能力",
+      "path": "软实力/能力.md"
+    },
+    {
+      "basename": "一些感悟",
+      "path": "软实力/一些感悟.md"
+    },
+    {
+      "basename": "Q&A",
+      "path": "实习/did/收银梳理/Q&A.md"
+    },
+    {
+      "basename": "监控报警优化",
+      "path": "实习/did/监控报警优化.md"
+    },
+    {
       "basename": "Mybatis",
       "path": "框架 中间件/Mybatis.md"
     },
     {
-      "basename": "系统设计",
-      "path": "架构/系统设计.md"
+      "basename": "Spring",
+      "path": "框架 中间件/Spring.md"
     },
     {
       "basename": "经验",
@@ -39,10 +59,6 @@
     {
       "basename": "资料推荐",
       "path": "资料/资料推荐.md"
-    },
-    {
-      "basename": "一些感悟",
-      "path": "软实力/一些感悟.md"
     },
     {
       "basename": "分库分库 Starter",
@@ -83,10 +99,6 @@
     {
       "basename": "设计模式",
       "path": "开发/设计模式.md"
-    },
-    {
-      "basename": "Q&A",
-      "path": "实习/did/收银梳理/Q&A.md"
     },
     {
       "basename": "面经",
@@ -131,10 +143,6 @@
     {
       "basename": "摘录",
       "path": "实习/did/收银梳理/摘录.md"
-    },
-    {
-      "basename": "监控报警优化",
-      "path": "实习/did/监控报警优化.md"
     },
     {
       "basename": "数据库",
@@ -191,14 +199,6 @@
     {
       "basename": "Podcast",
       "path": "Podcast.md"
-    },
-    {
-      "basename": "待处理",
-      "path": "待处理.md"
-    },
-    {
-      "basename": "集合源码",
-      "path": "Java/源码分析/集合源码.md"
     }
   ],
   "omittedPaths": [],
