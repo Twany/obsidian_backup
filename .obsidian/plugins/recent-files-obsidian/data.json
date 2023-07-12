@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "经验",
+      "path": "经验.md"
+    },
+    {
+      "basename": "多线程算法",
+      "path": "算法/多线程算法.md"
+    },
+    {
       "basename": "高可用",
       "path": "架构/高可用.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "资料推荐",
       "path": "资料/资料推荐.md"
-    },
-    {
-      "basename": "经验",
-      "path": "经验.md"
     },
     {
       "basename": "一些感悟",
@@ -79,10 +83,6 @@
     {
       "basename": "面经",
       "path": "面试准备/面经.md"
-    },
-    {
-      "basename": "多线程算法",
-      "path": "算法/多线程算法.md"
     },
     {
       "basename": "DDD",
