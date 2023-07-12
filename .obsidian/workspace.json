@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试准备/简历示例.md",
+                "file": "面试准备/面试准备.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试准备/简历示例.md",
+                "file": "面试准备/面试准备.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试准备/简历示例.md",
+                "file": "面试准备/面试准备.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试准备/简历示例.md"
+                "file": "面试准备/面试准备.md"
               }
             }
           },
@@ -175,11 +175,12 @@
   },
   "active": "d3cd2e4a9c994709",
   "lastOpenFiles": [
+    "面试准备/简历示例.md",
+    "面试准备/assets/简历示例/image-20230712184854244.png",
     "面试准备/assets/简历示例/image-20230712184716548.png",
     "面试准备/assets/简历示例",
     "面试准备/简历.md",
     "面试准备/面试准备.md",
-    "面试准备/简历示例.md",
     "面试准备/assets/简历/image-20230712183501905.png",
     "资料/资料推荐.md",
     "资料/assets/资料推荐/image-20230712170057545.png",
@@ -200,8 +201,6 @@
     "实习/did/监控报警优化.md",
     "实习/did/assets/监控报警优化/image-20230712161144786.png",
     "实习/did/assets/监控报警优化/image-20230712161026985.png",
-    "实习/did/assets/监控报警优化/image-20230712161022093.png",
-    "实习/did/assets/监控报警优化/image-20230712161018166.png",
     "实习/did/assets/监控报警优化",
     "框架 中间件/Mybatis.md",
     "经验.md",
