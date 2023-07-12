@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "开源项目推荐",
+      "path": "开源/开源项目推荐.md"
+    },
+    {
+      "basename": "awesome-starter",
+      "path": "开源/awesome-starter.md"
+    },
+    {
+      "basename": "资料推荐",
+      "path": "资料/资料推荐.md"
+    },
+    {
       "basename": "系统设计",
       "path": "架构/系统设计.md"
     },
@@ -41,24 +53,12 @@
       "path": "架构/高可用.md"
     },
     {
-      "basename": "awesome-starter",
-      "path": "开源/awesome-starter.md"
-    },
-    {
-      "basename": "开源项目推荐",
-      "path": "开源/开源项目推荐.md"
-    },
-    {
       "basename": "未命名 1",
       "path": "实习/未命名 1.md"
     },
     {
       "basename": "未命名",
       "path": "实习/未命名.md"
-    },
-    {
-      "basename": "资料推荐",
-      "path": "资料/资料推荐.md"
     },
     {
       "basename": "分库分库 Starter",

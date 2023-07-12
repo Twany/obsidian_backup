@@ -9,6 +9,7 @@
 ## 基于Redis的分布式限流工具 Starter
 [自己写分布式限流组件-基于Redis的注解支持的Ratelimiter - 掘金 (juejin.cn)](https://juejin.cn/post/6844903700650000398)
 https://github.com/TaXueWWL/shield-ratelimter
+[用一个注解实现接口频控，快把它用在自己项目中_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Vh411K7Da/?-Arouter=story&buvid=Y1422518958DC89F440E8F99EA2EB202E71F&is_story_h5=false&mid=fvUvCh5BwXrAzJaP4zq0%2Fg%3D%3D&p=1&plat_id=143&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=89A2EC72-7B34-429A-9FBC-F2C4CD366098&share_source=COPY&share_tag=s_i&timestamp=1688905520&unique_k=3SntvLb&up_id=146719540&vd_source=f276c02689a1b5b52e9b41644a56bc86)
 
 [Java架构-限流技术设计 - 掘金 (juejin.cn)](https://juejin.cn/post/7251050775858020408)
 
