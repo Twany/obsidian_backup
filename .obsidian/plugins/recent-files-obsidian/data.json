@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "资料推荐",
+      "path": "资料/资料推荐.md"
+    },
+    {
+      "basename": "资料",
+      "path": "数据库/MySQL/资料.md"
+    },
+    {
+      "basename": "设计模式",
+      "path": "开发/设计模式.md"
+    },
+    {
       "basename": "多线程算法",
       "path": "算法/多线程算法.md"
     },
@@ -27,10 +39,6 @@
     {
       "basename": "简历",
       "path": "面试准备/简历.md"
-    },
-    {
-      "basename": "资料推荐",
-      "path": "资料/资料推荐.md"
     },
     {
       "basename": "英语",
@@ -89,10 +97,6 @@
       "path": "项目/Lottery/分库分库 Starter.md"
     },
     {
-      "basename": "资料",
-      "path": "数据库/MySQL/资料.md"
-    },
-    {
       "basename": "线上问题排查",
       "path": "Java/线上问题排查.md"
     },
@@ -107,10 +111,6 @@
     {
       "basename": "实习总结",
       "path": "实习/实习总结.md"
-    },
-    {
-      "basename": "设计模式",
-      "path": "开发/设计模式.md"
     },
     {
       "basename": "面经",
