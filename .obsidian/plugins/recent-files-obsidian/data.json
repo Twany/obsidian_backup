@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "线上问题排查",
+      "path": "Java/线上问题排查.md"
+    },
+    {
+      "basename": "基础",
+      "path": "Java/基础.md"
+    },
+    {
       "basename": "实习经历",
       "path": "实习/did/实习经历.md"
     },
@@ -121,10 +129,6 @@
       "path": "经验.md"
     },
     {
-      "basename": "基础",
-      "path": "Java/基础.md"
-    },
-    {
       "basename": "未命名",
       "path": "实习/未命名.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Obsidian",
       "path": "开发/工具/Obsidian.md"
-    },
-    {
-      "basename": "SpringBoot",
-      "path": "框架 中间件/SpringBoot.md"
     }
   ],
   "omittedPaths": [],
