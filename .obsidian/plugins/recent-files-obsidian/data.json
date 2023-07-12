@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "高性能",
+      "path": "架构/高性能.md"
+    },
+    {
       "basename": "系统设计",
       "path": "架构/系统设计.md"
+    },
+    {
+      "basename": "高可用",
+      "path": "架构/高可用.md"
+    },
+    {
+      "basename": "awesome-starter",
+      "path": "开源/awesome-starter.md"
     },
     {
       "basename": "压测",
@@ -27,10 +39,6 @@
     {
       "basename": "Q&A",
       "path": "实习/did/收银梳理/Q&A.md"
-    },
-    {
-      "basename": "高可用",
-      "path": "架构/高可用.md"
     },
     {
       "basename": "Q&A",
@@ -77,10 +85,6 @@
       "path": "开源/开源项目推荐.md"
     },
     {
-      "basename": "awesome-starter",
-      "path": "开源/awesome-starter.md"
-    },
-    {
       "basename": "dynamic-tp",
       "path": "开源/dynamic-tp.md"
     },
@@ -107,10 +111,6 @@
     {
       "basename": "image-20230627203109417",
       "path": "实习/assets/实习总结/image-20230627203109417.png"
-    },
-    {
-      "basename": "高性能",
-      "path": "架构/高性能.md"
     },
     {
       "basename": "Journal",

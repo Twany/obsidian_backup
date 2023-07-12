@@ -16,6 +16,8 @@ https://github.com/TaXueWWL/shield-ratelimter
 
 ## 缓存击穿、穿透、雪崩 Starter
 
+## 频控 Starter
+解决重复提交：https://www.bilibili.com/video/BV1YN411D7
 
 ## 分库分表路由组件 Starter
 

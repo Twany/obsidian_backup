@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "架构/系统设计.md",
+                "file": "架构/高性能.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "架构/系统设计.md",
+                "file": "架构/高性能.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "架构/系统设计.md",
+                "file": "架构/高性能.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "架构/系统设计.md"
+                "file": "架构/高性能.md"
               }
             }
           },
@@ -175,12 +175,15 @@
   },
   "active": "d3cd2e4a9c994709",
   "lastOpenFiles": [
+    "架构/系统设计.md",
+    "架构/高性能.md",
+    "架构/高可用.md",
+    "开源/awesome-starter.md",
     "架构/assets/系统设计/image-20230712133350689.png",
     "架构/assets/系统设计",
     "架构/assets",
     "项目/压测.md",
     "项目/assets/压测/image-20230712133310841.png",
-    "架构/系统设计.md",
     "面试准备/简历.md",
     "面试准备/assets/简历/image-20230712110542082.png",
     "算法/力扣算法.md",
@@ -193,14 +196,12 @@
     "实习/did/收银梳理/assets/Q&A/image-20230712100333393.png",
     "算法/assets/领域算法/image-20230712100050340.png",
     "算法/assets/领域算法",
-    "架构/高可用.md",
     "项目/支付梳理/Q&A.md",
     "实习/did/收银梳理/assets/Q&A/image-20230712094006281.png",
     "实习/did/收银梳理/assets/Q&A/image-20230712094001478.png",
     "实习/did/收银梳理/assets/Q&A",
     "实习/did/收银梳理/状态枚举.md",
     "实习/日志规范.md",
-    "实习/assets/日志规范/image-20230712092006594.png",
     "实习/assets/日志规范",
     "实习/did/收银梳理/摘录.md",
     "实习/did/收银梳理/assets/摘录",
@@ -212,7 +213,6 @@
     "实习/did/项目构建.md",
     "实习/did/实习经历.md",
     "开源/开源项目推荐.md",
-    "开源/awesome-starter.md",
     "开源/dynamic-tp.md",
     "经验.md",
     "Java/基础.md",
