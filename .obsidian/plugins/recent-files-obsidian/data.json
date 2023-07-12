@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "收银系统架构",
+      "path": "实习/did/收银梳理/收银系统架构.md"
+    },
+    {
+      "basename": "Q&A",
+      "path": "实习/did/收银梳理/Q&A.md"
+    },
+    {
+      "basename": "Spring",
+      "path": "框架 中间件/Spring.md"
+    },
+    {
       "basename": "面试准备",
       "path": "面试准备/面试准备.md"
     },
@@ -25,16 +37,8 @@
       "path": "架构/系统设计.md"
     },
     {
-      "basename": "Q&A",
-      "path": "实习/did/收银梳理/Q&A.md"
-    },
-    {
       "basename": "实习经历",
       "path": "实习/did/实习经历.md"
-    },
-    {
-      "basename": "Spring",
-      "path": "框架 中间件/Spring.md"
     },
     {
       "basename": "开源项目推荐",
@@ -195,10 +199,6 @@
     {
       "basename": "Nacos",
       "path": "开源/Nacos.md"
-    },
-    {
-      "basename": "NatApp",
-      "path": "开发/工具/NatApp.md"
     }
   ],
   "omittedPaths": [],

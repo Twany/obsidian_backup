@@ -17,5 +17,6 @@
   "blue-topaz-theme@@file-line-width": 45,
   "things-style@@default-font-color": true,
   "things-style@@h3-color": "#00439F",
-  "things-style@@h4-color": "#865300"
+  "things-style@@h4-color": "#865300",
+  "things-style@@quote-color": "#646565"
 }
