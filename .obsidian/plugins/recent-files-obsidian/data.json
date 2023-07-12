@@ -5,6 +5,10 @@
       "path": "架构/系统设计.md"
     },
     {
+      "basename": "压测",
+      "path": "项目/压测.md"
+    },
+    {
       "basename": "简历",
       "path": "面试准备/简历.md"
     },
@@ -119,10 +123,6 @@
     {
       "basename": "容器",
       "path": "Java/容器.md"
-    },
-    {
-      "basename": "压测",
-      "path": "项目/压测.md"
     },
     {
       "basename": "压测",
