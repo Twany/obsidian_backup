@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "实习经历",
+      "path": "实习/did/实习经历.md"
+    },
+    {
+      "basename": "实习总结",
+      "path": "实习/实习总结.md"
+    },
+    {
+      "basename": "简历",
+      "path": "面试准备/简历.md"
+    },
+    {
+      "basename": "面试准备",
+      "path": "面试准备/面试准备.md"
+    },
+    {
       "basename": "设计模式",
       "path": "开发/设计模式.md"
     },
@@ -11,10 +27,6 @@
     {
       "basename": "Q&A",
       "path": "实习/did/收银梳理/Q&A.md"
-    },
-    {
-      "basename": "面试准备",
-      "path": "面试准备/面试准备.md"
     },
     {
       "basename": "面经",
@@ -47,10 +59,6 @@
     {
       "basename": "压测",
       "path": "项目/压测.md"
-    },
-    {
-      "basename": "简历",
-      "path": "面试准备/简历.md"
     },
     {
       "basename": "力扣算法",
@@ -101,10 +109,6 @@
       "path": "实习/did/项目构建.md"
     },
     {
-      "basename": "实习经历",
-      "path": "实习/did/实习经历.md"
-    },
-    {
       "basename": "开源项目推荐",
       "path": "开源/开源项目推荐.md"
     },
@@ -127,10 +131,6 @@
     {
       "basename": "预授权 Preauth",
       "path": "实习/did/收银梳理/预授权 Preauth.md"
-    },
-    {
-      "basename": "实习总结",
-      "path": "实习/实习总结.md"
     },
     {
       "basename": "image-20230627203109417",

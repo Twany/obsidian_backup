@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发/设计模式.md",
+                "file": "实习/did/实习经历.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发/设计模式.md",
+                "file": "实习/did/实习经历.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发/设计模式.md",
+                "file": "实习/did/实习经历.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发/设计模式.md"
+                "file": "实习/did/实习经历.md"
               }
             }
           },
@@ -175,9 +175,14 @@
   },
   "active": "d3cd2e4a9c994709",
   "lastOpenFiles": [
+    "实习/实习总结.md",
+    "面试准备/简历.md",
+    "面试准备/assets/简历/image-20230712140631866.png",
+    "面试准备/面试准备.md",
+    "面试准备/assets/面试准备/image-20230712140551676.png",
+    "开发/设计模式.md",
     "项目/Lottery/分库分库 Starter.md",
     "实习/did/收银梳理/Q&A.md",
-    "面试准备/面试准备.md",
     "面试准备/面经.md",
     "算法/多线程算法.md",
     "开发/DDD.md",
@@ -192,7 +197,6 @@
     "架构/assets",
     "项目/压测.md",
     "项目/assets/压测/image-20230712133310841.png",
-    "面试准备/简历.md",
     "面试准备/assets/简历/image-20230712110542082.png",
     "算法/力扣算法.md",
     "算法/assets/力扣算法/image-20230712110114653.png",
@@ -201,10 +205,8 @@
     "面试准备/assets/简历/image-20230712105727833.png",
     "实习/did/收银梳理/assets/Q&A/image-20230712105550170.png",
     "实习/did/收银梳理/assets/Q&A/image-20230712100333393.png",
-    "算法/assets/领域算法/image-20230712100050340.png",
     "算法/assets/领域算法",
     "项目/支付梳理/Q&A.md",
-    "实习/did/收银梳理/assets/Q&A/image-20230712094006281.png",
     "实习/did/收银梳理/assets/Q&A",
     "实习/did/收银梳理/状态枚举.md",
     "实习/日志规范.md",
@@ -217,8 +219,6 @@
     "实习/未命名 1.md",
     "实习/did/log4j2.xml 编写实例.md",
     "实习/did/项目构建.md",
-    "实习/did/实习经历.md",
-    "开源/开源项目推荐.md",
     "实习/assets/实习总结/监控报警优化调研.pptx",
     "实习/日志规范.txt"
   ]
