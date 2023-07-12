@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "设计模式",
+      "path": "开发/设计模式.md"
+    },
+    {
+      "basename": "分库分库 Starter",
+      "path": "项目/Lottery/分库分库 Starter.md"
+    },
+    {
+      "basename": "Q&A",
+      "path": "实习/did/收银梳理/Q&A.md"
+    },
+    {
+      "basename": "面试准备",
+      "path": "面试准备/面试准备.md"
+    },
+    {
+      "basename": "面经",
+      "path": "面试准备/面经.md"
+    },
+    {
+      "basename": "多线程算法",
+      "path": "算法/多线程算法.md"
+    },
+    {
+      "basename": "DDD",
+      "path": "开发/DDD.md"
+    },
+    {
       "basename": "高性能",
       "path": "架构/高性能.md"
     },
@@ -35,10 +63,6 @@
     {
       "basename": "分布式组件",
       "path": "架构/分布式组件.md"
-    },
-    {
-      "basename": "Q&A",
-      "path": "实习/did/收银梳理/Q&A.md"
     },
     {
       "basename": "Q&A",
@@ -129,20 +153,8 @@
       "path": "项目/Lottery/压测.md"
     },
     {
-      "basename": "面经",
-      "path": "面试准备/面经.md"
-    },
-    {
-      "basename": "分库分库 Starter",
-      "path": "项目/Lottery/分库分库 Starter.md"
-    },
-    {
       "basename": "Asyncflow",
       "path": "项目/Asyncflow/Asyncflow.md"
-    },
-    {
-      "basename": "面试准备",
-      "path": "面试准备/面试准备.md"
     },
     {
       "basename": "Nacos",
@@ -187,18 +199,6 @@
     {
       "basename": "SpringBoot",
       "path": "框架 中间件/SpringBoot.md"
-    },
-    {
-      "basename": "Spring",
-      "path": "框架 中间件/Spring.md"
-    },
-    {
-      "basename": "Mybatis",
-      "path": "框架 中间件/Mybatis.md"
-    },
-    {
-      "basename": "Kafka",
-      "path": "框架 中间件/Kafka.md"
     }
   ],
   "omittedPaths": [],

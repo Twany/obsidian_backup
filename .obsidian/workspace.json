@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "架构/高性能.md",
+                "file": "开发/设计模式.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "架构/高性能.md",
+                "file": "开发/设计模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "架构/高性能.md",
+                "file": "开发/设计模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "架构/高性能.md"
+                "file": "开发/设计模式.md"
               }
             }
           },
@@ -175,8 +175,16 @@
   },
   "active": "d3cd2e4a9c994709",
   "lastOpenFiles": [
-    "架构/系统设计.md",
+    "项目/Lottery/分库分库 Starter.md",
+    "实习/did/收银梳理/Q&A.md",
+    "面试准备/面试准备.md",
+    "面试准备/面经.md",
+    "算法/多线程算法.md",
+    "开发/DDD.md",
     "架构/高性能.md",
+    "架构/assets/高性能/image-20230712134828123.png",
+    "架构/assets/高性能",
+    "架构/系统设计.md",
     "架构/高可用.md",
     "开源/awesome-starter.md",
     "架构/assets/系统设计/image-20230712133350689.png",
@@ -191,14 +199,12 @@
     "算法/领域算法.md",
     "架构/分布式组件.md",
     "面试准备/assets/简历/image-20230712105727833.png",
-    "实习/did/收银梳理/Q&A.md",
     "实习/did/收银梳理/assets/Q&A/image-20230712105550170.png",
     "实习/did/收银梳理/assets/Q&A/image-20230712100333393.png",
     "算法/assets/领域算法/image-20230712100050340.png",
     "算法/assets/领域算法",
     "项目/支付梳理/Q&A.md",
     "实习/did/收银梳理/assets/Q&A/image-20230712094006281.png",
-    "实习/did/收银梳理/assets/Q&A/image-20230712094001478.png",
     "实习/did/收银梳理/assets/Q&A",
     "实习/did/收银梳理/状态枚举.md",
     "实习/日志规范.md",
@@ -213,13 +219,7 @@
     "实习/did/项目构建.md",
     "实习/did/实习经历.md",
     "开源/开源项目推荐.md",
-    "开源/dynamic-tp.md",
-    "经验.md",
-    "Java/基础.md",
-    "未命名.md",
-    "实习/未命名.md",
     "实习/assets/实习总结/监控报警优化调研.pptx",
-    "实习/日志规范.txt",
-    "实习/监控报警优化调研.pptx"
+    "实习/日志规范.txt"
   ]
 }
