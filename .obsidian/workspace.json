@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开源/开源项目推荐.md",
+                "file": "架构/系统设计.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开源/开源项目推荐.md",
+                "file": "架构/系统设计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开源/开源项目推荐.md",
+                "file": "架构/系统设计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开源/开源项目推荐.md"
+                "file": "架构/系统设计.md"
               }
             }
           },
@@ -175,8 +175,11 @@
   },
   "active": "d3cd2e4a9c994709",
   "lastOpenFiles": [
-    "开源/awesome-starter.md",
+    "实习/did/收银梳理/Q&A.md",
+    "实习/did/实习经历.md",
+    "框架 中间件/Spring.md",
     "开源/开源项目推荐.md",
+    "开源/awesome-starter.md",
     "资料/资料推荐.md",
     "资料/assets/资料推荐/十年码农内功2023.7.2.pdf",
     "架构/系统设计.md",
@@ -186,7 +189,6 @@
     "架构/assets/系统设计/image-20230712161709139.png",
     "软实力/能力.md",
     "软实力/一些感悟.md",
-    "实习/did/收银梳理/Q&A.md",
     "实习/did/监控报警优化.md",
     "实习/did/assets/监控报警优化/image-20230712161144786.png",
     "实习/did/assets/监控报警优化/image-20230712161026985.png",
@@ -194,7 +196,6 @@
     "实习/did/assets/监控报警优化/image-20230712161018166.png",
     "实习/did/assets/监控报警优化",
     "框架 中间件/Mybatis.md",
-    "框架 中间件/Spring.md",
     "经验.md",
     "assets/经验/image-20230712145521614.png",
     "算法/多线程算法.md",
@@ -210,7 +211,6 @@
     "Java/线上问题排查.md",
     "Java/容器.md",
     "Java/基础.md",
-    "实习/did/实习经历.md",
     "实习/did/assets/实习经历",
     "实习/did/assets",
     "实习/实习总结.md",

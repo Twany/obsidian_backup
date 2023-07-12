@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "系统设计",
+      "path": "架构/系统设计.md"
+    },
+    {
+      "basename": "Q&A",
+      "path": "实习/did/收银梳理/Q&A.md"
+    },
+    {
+      "basename": "实习经历",
+      "path": "实习/did/实习经历.md"
+    },
+    {
+      "basename": "Spring",
+      "path": "框架 中间件/Spring.md"
+    },
+    {
       "basename": "开源项目推荐",
       "path": "开源/开源项目推荐.md"
     },
@@ -13,10 +29,6 @@
       "path": "资料/资料推荐.md"
     },
     {
-      "basename": "系统设计",
-      "path": "架构/系统设计.md"
-    },
-    {
       "basename": "能力",
       "path": "软实力/能力.md"
     },
@@ -25,20 +37,12 @@
       "path": "软实力/一些感悟.md"
     },
     {
-      "basename": "Q&A",
-      "path": "实习/did/收银梳理/Q&A.md"
-    },
-    {
       "basename": "监控报警优化",
       "path": "实习/did/监控报警优化.md"
     },
     {
       "basename": "Mybatis",
       "path": "框架 中间件/Mybatis.md"
-    },
-    {
-      "basename": "Spring",
-      "path": "框架 中间件/Spring.md"
     },
     {
       "basename": "经验",
@@ -79,10 +83,6 @@
     {
       "basename": "基础",
       "path": "Java/基础.md"
-    },
-    {
-      "basename": "实习经历",
-      "path": "实习/did/实习经历.md"
     },
     {
       "basename": "实习总结",
