@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "八股题集",
+      "path": "数据库/MySQL/八股题集.md"
+    },
+    {
       "basename": "面经",
       "path": "面试准备/面经.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Asyncflow",
       "path": "项目/Asyncflow/Asyncflow.md"
-    },
-    {
-      "basename": "Nacos",
-      "path": "开源/Nacos.md"
     }
   ],
   "omittedPaths": [],
