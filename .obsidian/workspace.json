@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "架构/系统设计.md",
+                "file": "架构/分布式链路追踪.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "架构/系统设计.md",
+                "file": "架构/分布式链路追踪.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "架构/系统设计.md",
+                "file": "架构/分布式链路追踪.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "架构/系统设计.md"
+                "file": "架构/分布式链路追踪.md"
               }
             }
           },
@@ -174,6 +174,8 @@
   },
   "active": "d3cd2e4a9c994709",
   "lastOpenFiles": [
+    "架构/系统设计.md",
+    "架构/分布式链路追踪.md",
     "项目/多级缓存/多级缓存.md",
     "数据库/Redis/数据结构源码.md",
     "项目/多级缓存",
@@ -203,7 +205,6 @@
     "面试准备/assets/简历/image-20230712183501905.png",
     "资料/assets/资料推荐/image-20230712170057545.png",
     "软实力/英语.md",
-    "架构/系统设计.md",
     "实习/did/实习经历.md",
     "开源/开源项目推荐.md",
     "开源/awesome-starter.md",
@@ -215,7 +216,6 @@
     "实习/did/监控报警优化.md",
     "实习/did/assets/监控报警优化",
     "框架 中间件/Mybatis.md",
-    "经验.md",
     "算法/assets/多线程算法",
     "软实力/assets/一些感悟",
     "软实力/assets",

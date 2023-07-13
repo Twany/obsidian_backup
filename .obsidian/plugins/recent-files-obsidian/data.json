@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "分布式链路追踪",
+      "path": "架构/分布式链路追踪.md"
+    },
+    {
       "basename": "系统设计",
       "path": "架构/系统设计.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "预授权 Preauth",
       "path": "实习/did/收银梳理/预授权 Preauth.md"
-    },
-    {
-      "basename": "image-20230627203109417",
-      "path": "实习/assets/实习总结/image-20230627203109417.png"
     }
   ],
   "omittedPaths": [],
