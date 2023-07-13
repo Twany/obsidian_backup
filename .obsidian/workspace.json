@@ -154,12 +154,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,9 +174,9 @@
   },
   "active": "d3cd2e4a9c994709",
   "lastOpenFiles": [
-    "面试准备/项目面试.md",
-    "面试准备/面试准备.md",
     "面试准备/面经.md",
+    "面试准备/面试准备.md",
+    "面试准备/项目面试.md",
     "数据库/MySQL/八股题集.md",
     "数据库/MySQL/assets/八股题集/image-20230713103025470.png",
     "数据库/MySQL/assets/八股题集",
