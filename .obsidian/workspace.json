@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "架构/分布式链路追踪.md",
+                "file": "数据库/Redis/多机.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "架构/分布式链路追踪.md",
+                "file": "数据库/Redis/多机.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "架构/分布式链路追踪.md",
+                "file": "数据库/Redis/多机.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "架构/分布式链路追踪.md"
+                "file": "数据库/Redis/多机.md"
               }
             }
           },
@@ -174,12 +174,12 @@
   },
   "active": "d3cd2e4a9c994709",
   "lastOpenFiles": [
-    "架构/系统设计.md",
-    "架构/分布式链路追踪.md",
-    "项目/多级缓存/多级缓存.md",
-    "数据库/Redis/数据结构源码.md",
-    "项目/多级缓存",
+    "数据库/Redis/源码.md",
     "数据库/Redis/多机.md",
+    "架构/分布式链路追踪.md",
+    "架构/系统设计.md",
+    "项目/多级缓存/多级缓存.md",
+    "项目/多级缓存",
     "面试准备/面试准备.md",
     "面试准备/assets/面试准备/image-20230713114634808.png",
     "面试准备/assets/面试准备/image-20230713114617580.png",

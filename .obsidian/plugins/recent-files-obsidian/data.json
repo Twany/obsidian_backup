@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "多机",
+      "path": "数据库/Redis/多机.md"
+    },
+    {
+      "basename": "源码",
+      "path": "数据库/Redis/源码.md"
+    },
+    {
       "basename": "分布式链路追踪",
       "path": "架构/分布式链路追踪.md"
     },
@@ -11,14 +19,6 @@
     {
       "basename": "多级缓存",
       "path": "项目/多级缓存/多级缓存.md"
-    },
-    {
-      "basename": "数据结构源码",
-      "path": "数据库/Redis/数据结构源码.md"
-    },
-    {
-      "basename": "多机",
-      "path": "数据库/Redis/多机.md"
     },
     {
       "basename": "面试准备",
