@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "多级缓存",
+      "path": "项目/多级缓存/多级缓存.md"
+    },
+    {
+      "basename": "数据结构源码",
+      "path": "数据库/Redis/数据结构源码.md"
+    },
+    {
       "basename": "多机",
       "path": "数据库/Redis/多机.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "image-20230627203109417",
       "path": "实习/assets/实习总结/image-20230627203109417.png"
-    },
-    {
-      "basename": "Journal",
-      "path": "每日输出/Journal.md"
-    },
-    {
-      "basename": "计划",
-      "path": "每日输出/计划.md"
     }
   ],
   "omittedPaths": [],
