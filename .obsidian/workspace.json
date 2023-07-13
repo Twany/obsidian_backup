@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库/MySQL/八股题集.md",
+                "file": "面试准备/面试准备.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/MySQL/八股题集.md",
+                "file": "面试准备/面试准备.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/MySQL/八股题集.md",
+                "file": "面试准备/面试准备.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/MySQL/八股题集.md"
+                "file": "面试准备/面试准备.md"
               }
             }
           },
@@ -175,13 +175,14 @@
   },
   "active": "d3cd2e4a9c994709",
   "lastOpenFiles": [
+    "面试准备/项目面试.md",
+    "面试准备/面试准备.md",
+    "面试准备/面经.md",
+    "数据库/MySQL/八股题集.md",
     "数据库/MySQL/assets/八股题集/image-20230713103025470.png",
     "数据库/MySQL/assets/八股题集",
     "数据库/MySQL/assets",
-    "面试准备/面经.md",
-    "数据库/MySQL/八股题集.md",
     "面试准备/简历.md",
-    "面试准备/面试准备.md",
     "资料/资料推荐.md",
     "数据库/MySQL/资料.md",
     "开发/设计模式.md",
@@ -209,7 +210,6 @@
     "软实力/能力.md",
     "软实力/一些感悟.md",
     "实习/did/监控报警优化.md",
-    "实习/did/assets/监控报警优化/image-20230712161144786.png",
     "实习/did/assets/监控报警优化",
     "框架 中间件/Mybatis.md",
     "经验.md",

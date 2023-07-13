@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "八股题集",
-      "path": "数据库/MySQL/八股题集.md"
+      "basename": "面试准备",
+      "path": "面试准备/面试准备.md"
+    },
+    {
+      "basename": "项目面试",
+      "path": "面试准备/项目面试.md"
     },
     {
       "basename": "面经",
       "path": "面试准备/面经.md"
     },
     {
-      "basename": "简历",
-      "path": "面试准备/简历.md"
+      "basename": "八股题集",
+      "path": "数据库/MySQL/八股题集.md"
     },
     {
-      "basename": "面试准备",
-      "path": "面试准备/面试准备.md"
+      "basename": "简历",
+      "path": "面试准备/简历.md"
     },
     {
       "basename": "资料推荐",
@@ -195,10 +199,6 @@
     {
       "basename": "压测",
       "path": "项目/Lottery/压测.md"
-    },
-    {
-      "basename": "Asyncflow",
-      "path": "项目/Asyncflow/Asyncflow.md"
     }
   ],
   "omittedPaths": [],
