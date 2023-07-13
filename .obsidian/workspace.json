@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实习/did/收银梳理/Q&A.md",
+                "file": "架构/系统设计.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "实习/did/收银梳理/Q&A.md",
+                "file": "架构/系统设计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "实习/did/收银梳理/Q&A.md",
+                "file": "架构/系统设计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "实习/did/收银梳理/Q&A.md"
+                "file": "架构/系统设计.md"
               }
             }
           },
@@ -174,6 +174,11 @@
   },
   "active": "d3cd2e4a9c994709",
   "lastOpenFiles": [
+    "项目/Lottery/Lottery问答.md",
+    "项目/Lottery/assets/Lottery问答/image-20230713230359211.png",
+    "项目/Lottery/assets/Lottery问答",
+    "项目/Lottery/Lottery.md",
+    "实习/did/收银梳理/Q&A.md",
     "实习/did/收银梳理/assets/Q&A/image-20230713183656169.png",
     "数据库/Redis/多机.md",
     "数据库/Redis/源码.md",
@@ -197,7 +202,6 @@
     "算法/多线程算法.md",
     "算法/assets/多线程算法/image-20230712191244109.png",
     "实习/did/收银梳理/收银系统架构.md",
-    "实习/did/收银梳理/Q&A.md",
     "框架 中间件/Spring.md",
     "面试准备/简历示例.md",
     "面试准备/assets/简历示例/image-20230712184854244.png",
@@ -210,15 +214,10 @@
     "开源/开源项目推荐.md",
     "开源/awesome-starter.md",
     "资料/assets/资料推荐/十年码农内功2023.7.2.pdf",
-    "架构/assets/系统设计/image-20230712161739730.png",
-    "架构/assets/系统设计/image-20230712161730445.png",
     "软实力/能力.md",
-    "软实力/一些感悟.md",
-    "实习/did/监控报警优化.md",
     "实习/did/assets/监控报警优化",
     "算法/assets/多线程算法",
     "软实力/assets/一些感悟",
-    "软实力/assets",
-    "实习/did/assets/实习经历"
+    "软实力/assets"
   ]
 }

@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "系统设计",
+      "path": "架构/系统设计.md"
+    },
+    {
+      "basename": "Lottery问答",
+      "path": "项目/Lottery/Lottery问答.md"
+    },
+    {
+      "basename": "Lottery",
+      "path": "项目/Lottery/Lottery.md"
+    },
+    {
       "basename": "Q&A",
       "path": "实习/did/收银梳理/Q&A.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "分布式链路追踪",
       "path": "架构/分布式链路追踪.md"
-    },
-    {
-      "basename": "系统设计",
-      "path": "架构/系统设计.md"
     },
     {
       "basename": "多级缓存",
@@ -191,14 +199,6 @@
     {
       "basename": "项目构建",
       "path": "实习/did/项目构建.md"
-    },
-    {
-      "basename": "dynamic-tp",
-      "path": "开源/dynamic-tp.md"
-    },
-    {
-      "basename": "预授权 Preauth",
-      "path": "实习/did/收银梳理/预授权 Preauth.md"
     }
   ],
   "omittedPaths": [],
