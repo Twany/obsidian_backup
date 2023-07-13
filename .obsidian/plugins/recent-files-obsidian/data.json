@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "多机",
+      "path": "数据库/Redis/多机.md"
+    },
+    {
       "basename": "面试准备",
       "path": "面试准备/面试准备.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "计划",
       "path": "每日输出/计划.md"
-    },
-    {
-      "basename": "压测",
-      "path": "项目/Lottery/压测.md"
     }
   ],
   "omittedPaths": [],
