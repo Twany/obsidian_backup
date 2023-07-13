@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库/Redis/多机.md",
+                "file": "实习/did/收银梳理/Q&A.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/Redis/多机.md",
+                "file": "实习/did/收银梳理/Q&A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/Redis/多机.md",
+                "file": "实习/did/收银梳理/Q&A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/Redis/多机.md"
+                "file": "实习/did/收银梳理/Q&A.md"
               }
             }
           },
@@ -174,8 +174,9 @@
   },
   "active": "d3cd2e4a9c994709",
   "lastOpenFiles": [
-    "数据库/Redis/源码.md",
+    "实习/did/收银梳理/assets/Q&A/image-20230713183656169.png",
     "数据库/Redis/多机.md",
+    "数据库/Redis/源码.md",
     "架构/分布式链路追踪.md",
     "架构/系统设计.md",
     "项目/多级缓存/多级缓存.md",
@@ -215,7 +216,6 @@
     "软实力/一些感悟.md",
     "实习/did/监控报警优化.md",
     "实习/did/assets/监控报警优化",
-    "框架 中间件/Mybatis.md",
     "算法/assets/多线程算法",
     "软实力/assets/一些感悟",
     "软实力/assets",

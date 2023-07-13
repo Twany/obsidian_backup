@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Q&A",
+      "path": "实习/did/收银梳理/Q&A.md"
+    },
+    {
       "basename": "多机",
       "path": "数据库/Redis/多机.md"
     },
@@ -59,10 +63,6 @@
     {
       "basename": "收银系统架构",
       "path": "实习/did/收银梳理/收银系统架构.md"
-    },
-    {
-      "basename": "Q&A",
-      "path": "实习/did/收银梳理/Q&A.md"
     },
     {
       "basename": "Spring",
