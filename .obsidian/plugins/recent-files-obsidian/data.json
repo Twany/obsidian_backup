@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "系统设计",
+      "path": "架构/系统设计.md"
+    },
+    {
       "basename": "多级缓存",
       "path": "项目/多级缓存/多级缓存.md"
     },
@@ -67,10 +71,6 @@
     {
       "basename": "英语",
       "path": "软实力/英语.md"
-    },
-    {
-      "basename": "系统设计",
-      "path": "架构/系统设计.md"
     },
     {
       "basename": "实习经历",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/多级缓存/多级缓存.md",
+                "file": "架构/系统设计.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "项目/多级缓存/多级缓存.md",
+                "file": "架构/系统设计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "项目/多级缓存/多级缓存.md",
+                "file": "架构/系统设计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/多级缓存/多级缓存.md"
+                "file": "架构/系统设计.md"
               }
             }
           },
@@ -174,8 +174,8 @@
   },
   "active": "d3cd2e4a9c994709",
   "lastOpenFiles": [
-    "数据库/Redis/数据结构源码.md",
     "项目/多级缓存/多级缓存.md",
+    "数据库/Redis/数据结构源码.md",
     "项目/多级缓存",
     "数据库/Redis/多机.md",
     "面试准备/面试准备.md",
